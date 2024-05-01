@@ -1,3 +1,9 @@
+---
+name: User story template
+about: User story template for the devops-capstone-project.
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
